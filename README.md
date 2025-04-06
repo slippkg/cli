@@ -1,3 +1,4 @@
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
 # slip CLI
 
 > A minimal, trustless, system-wide package manager driven by a single declarative config file. Written in Go, configured with Lua.
