@@ -8,7 +8,7 @@
 
 `slip` is a declarative package and configuration manager for people who:
 - Want full control of their system state
-- Don't want to learn an obscure DSL for declarative package management
+- Don't want to learn an obscure DSL 
 - Hate lockfiles, YAML, and emotional tooling
 
 It installs and removes packages based on your `slip.lua` — and nothing else.
